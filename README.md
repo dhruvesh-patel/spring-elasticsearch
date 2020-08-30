@@ -1,0 +1,1 @@
+This repo is for demonstrating usage of Elastic Search, Kibana and logstash stack for centralized logging purpose. 
