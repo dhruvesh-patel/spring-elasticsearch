@@ -1,4 +1,4 @@
-This repo demonstrates usage of Elastic Search with Spring Data an Spring boot for simple search. We will create Customer document, save data in it & then search based on first name of customer. Elastic search is full text search engine based on Lucene library, it searches based on index (called inverted index). 
+This repo demonstrates usage of Elastic Search with Spring Data and Spring boot for simple search. We will create Customer document, save data in it & then search based on first name of customer. Elastic search is full text search engine based on Lucene library, it searches based on index (called inverted index). 
 
 Pre-requisite:
 1) JDK 11
